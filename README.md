@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am Tuan a German Student and currently learning programming while doing a internship as a Software Developer.
+My Main focus is on API C# WPF backend and frontend programming.
+Im also working on my Python skill tree.
 
 <!--
 **Creasin434/Creasin434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
